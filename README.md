@@ -1,7 +1,9 @@
-# Probability PDF Vs CDF in diffrent Distribution 
-
-
-
+# Probability PDF Vs CDF in different Distribution 
+*normal distribution
+*uniform distribution
+*t-distribution
+*f-distribution
+*exponential distribution
 
 # PDF (Probability Density Function):
 The Probability Density Function (PDF) describes the likelihood of a continuous random variable taking on a particular value. In other words, it gives you the relative probability of a random variable falling within a specific range of values. The PDF is used for continuous random variables and is non-negative. It can help you understand the distribution of the variable and where it is more likely to take certain values. The area under the PDF curve over a certain range represents the probability of the random variable falling within that range.
