@@ -1,4 +1,4 @@
-# Probability-PDF-Vs-CDF-
+# Probability PDF Vs CDF in diffrent Distribution 
 
 
 
